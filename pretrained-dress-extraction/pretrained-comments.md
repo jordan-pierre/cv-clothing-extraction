@@ -1,5 +1,7 @@
 # Comments on using save_ckp_froze.h5
 
+Note: Pretrained model is too large to store in free github.  Download from [link](https://drive.google.com/u/0/uc?id=1l7PUB8uAGRyqvZ0ti0ZACoI2CzJxOVoI&export=download).
+
 ## Benefits
 
 - Off-the-shelf model easy to implement
